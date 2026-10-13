@@ -1,4 +1,2 @@
-pandas
-spacy
 streamlit
-transformers
+pandas
